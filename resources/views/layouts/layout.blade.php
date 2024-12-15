@@ -55,37 +55,22 @@
                 </div>
         </div>
 
-        <main>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
-            A <br>
+        <main class=" flex justify-center items-center my-10 gap-10">
+            <div class="flex flex-row max-w-[70%] justify-between gap-10">
+                <img src="https://demo.wpdirectorykit.com/real-estate-dark-house/wp-content/uploads/2023/03/homepage_content_1-2.jpg" alt="" class="w-[500px] h-[500px]">
+
+                <div>
+                    <div class="text-white font-normal text-[20px]">About Property</div>
+                    <div class="text-white font-semibold text-[35px]">Modern Villa With a
+                    Spacious Gardan</div>
+                    <p class="text-white text-[15px] mt-5">
+                        This stunning modern villa is nestled in a lush, tropical garden, offering a serene and luxurious retreat. With its vibrant architecture, inviting pool, and well-manicured grounds, this property promises an unforgettable experience. Immerse yourself in the tranquil ambiance, relax on the comfortable outdoor furniture, and enjoy the refreshing breeze and the sound of the gentle waterfall. <br class="mt-5">Whether you're seeking a peaceful getaway or a place to host intimate gatherings, this villa with its spacious garden provides the perfect setting for creating lasting memories.
+                        Discover the beauty and comfort of this modern villa, where nature and modern amenities seamlessly blend to offer a truly remarkable living experience. Explore the property further and imagine the possibilities that await.
+                    </p>
+                </div>
+            </div>
         </main>
+
         <footer class="bottom-0 w-full bg-black dark:bg-black text-white dark:text-gray-200 p-4">
             <div class="container mx-auto flex justify-center items-center p-4 gap-10">
                 <a href="" class="text-white dark:text-gray-200 hover:opacity-50">Home</a>
