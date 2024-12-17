@@ -17,7 +17,7 @@ Profiles
                 <div class="profile-card bg-black rounded-2xl shadow-md p-6 flex flex-row gap-3">
                     <img src="https://secure.gravatar.com/avatar/fbc680fbc163811bea4e61ff43cccd59?s=450&d=mm&r=g" alt="Debra Moran" class="w-[200px] h-[200px] rounded-sm mx-auto mb-4">
                     <div>
-                        <h3 class="text-xl font-bold mb-2">Garry Novan</h3>
+                        <h3 class="text-xl font-bold mb-2">John Smith</h3>
                         <p class="text-gray-400 mb-4">Agent</p>
                         <div class="flex flex-col gap-2">
                             <a href="tel:(917) 367-2058" class="text-blue-500 hover:text-blue-400">
@@ -36,7 +36,7 @@ Profiles
                 <div class="profile-card bg-black rounded-2xl shadow-md p-6 flex flex-row gap-3">
                     <img src="https://secure.gravatar.com/avatar/7f119498e0ed4df002f6676e1b8b1b07?s=450&d=mm&r=g" alt="Garry Novan" class="w-[200px] h-[200px] rounded-sm mx-auto mb-4">
                     <div>
-                        <h3 class="text-xl font-bold mb-2">Debra Moran</h3>
+                        <h3 class="text-xl font-bold mb-2">Emily Davis</h3>
                         <p class="text-gray-400 mb-4">Agent</p>
                         <div class="flex flex-col gap-2">
                             <a href="tel:(888) 346-2015" class="text-blue-500 hover:text-blue-400">
@@ -55,7 +55,7 @@ Profiles
                 <div class="profile-card bg-black rounded-2xl shadow-md p-6 flex flex-row gap-3">
                     <img src="https://secure.gravatar.com/avatar/fedf00660c526608cd5c90df793148fb?s=450&d=mm&r=g" alt="Kety Spear" class="w-[200px] h-[200px] rounded-sm mx-auto mb-4">
                     <div>
-                        <h3 class="text-xl font-bold mb-2">Kety Spear</h3>
+                        <h3 class="text-xl font-bold mb-2">Michael Chen</h3>
                         <p class="text-gray-400 mb-4">Agent</p>
                         <div class="flex flex-col gap-2">
                             <a href="tel:(999) 854-2056" class="text-blue-500 hover:text-blue-400">
