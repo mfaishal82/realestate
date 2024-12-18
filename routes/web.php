@@ -4,15 +4,11 @@ use App\Http\Controllers\MainController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [MainController::class, 'index']);
-Route::get('/galleries', function () {
-    return view('galleries');
-});
-Route::get('/company', function () {
-    return view('company');
-});
-Route::get('/contact', function () {
-    return view('contact');
-});
-Route::get('/profiles', function () {
-    return view('profiles');
-});
+
+Route::get('/galleries', [MainController::class, 'showGalleries']);
+
+Route::get('/company', [MainController::class, 'showCompany']);
+
+Route::get('/contact', [MainController::class, 'showContact']);
+
+Route::get('/profiles', [MainController::class, 'showProfiles']);
